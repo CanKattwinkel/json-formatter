@@ -19,6 +19,7 @@
   "globals": {
     "angular": true,
     "window": true,
-    "module": true
+    "module": true,
+    "_": true
   }
 }
